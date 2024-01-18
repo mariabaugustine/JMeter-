@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705475453317,1798,Linkedin Homepage,200,OK,Thread Group 1 1-1,text,true,,135081,121,1,1,https://www.linkedin.com/,1151,0,823
+1705475455140,1405,Invalid Login,404,Not Found,Thread Group 1 1-1,text,false,,323526,788,1,1,https://www.linkedin.com/uas/login-submit,239,0,0
+1705475455140,239,Invalid Login-0,301,Moved Permanently,Thread Group 1 1-1,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,239,0,0
+1705475455384,1161,Invalid Login-1,404,Not Found,Thread Group 1 1-1,text,false,,323144,463,1,1,https://www.linkedin.com/uas/login-submit,309,0,58
+1705475456547,442,Forgot password,999,Request denied,Thread Group 1 1-1,text,false,,25318,421,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_password&original_referer=https%3A%2F%2Fwww.linkedin.com%2F,229,0,0
